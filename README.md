@@ -8,6 +8,10 @@ Sample master/detail app that consumes a Napptilus Oompa Loompa API to display a
 
 The MVP displays a list of workers (Oompa Loompas), managed by Remote Mediator with Pager3 and local caching, and a worker detail, that provides extra information and cache to the worker. All the user interface was done with Compose, and Koin has been used as a dependency injector. Some unit tests have also been done.
 
+**Some screenshots**
+
+<img src="https://user-images.githubusercontent.com/1913709/227589623-c4b3da36-e613-4852-87e3-14e97c3cf541.png" height="300"/>    <img src="https://user-images.githubusercontent.com/1913709/227589619-c46f3545-c0d0-4cd4-80e5-7e96d8d271c7.png" height="300"/>    
+
 
 **Libraries used:**
 - **Compose:** A declarative UI toolkit for building native Android apps using Kotlin that allows for easier and more flexible UI development.
